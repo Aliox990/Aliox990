@@ -4,7 +4,7 @@
 
 ## Metas
 
-**Aprender lo basico de varios lenguajes y comprender para que se usan normalmente y en base a eso seleccionar uno o dos para especializarme**
+**Aprender lo basico de varios lenguajes y comprender para que se usan normalmente y en base a eso seleccionar uno o dos para especializarme.**
 
 ### Lenguajes
 
